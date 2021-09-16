@@ -8,8 +8,8 @@ Xây dựng ứng dụng lọc email spam bằng giải thuật Naïve Bayes s�
   4. Xác định ngưỡng 
 ==> Mục đích của phần mềm là xác định mail đầu vào có phải là thư rác hay không và tính xác suất là thư rác của từng ký tự có trong mail
 * Các bước chạy chương trình:
-- Nhập thư(có thể nhập trực tiếp vào ô textbox hoặc đọc từ file
-- Nhấn button check để kiểm tra 
-- Xem kết quả
+  - Nhập thư(có thể nhập trực tiếp vào ô textbox hoặc đọc từ file
+  - Nhấn button check để kiểm tra 
+  - Xem kết quả
 
 ==> Sau mỗi lần thực thi, chương trình sẽ ghi nhận kết quả và đưa vào huấn luyện
