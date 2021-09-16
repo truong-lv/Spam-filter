@@ -13,4 +13,4 @@ Xây dựng ứng dụng lọc email spam bằng giải thuật Naïve Bayes s�
   - Xem kết quả
 
 ==> Sau mỗi lần thực thi, chương trình sẽ ghi nhận kết quả và đưa vào huấn luyện
-==> Mục đích của phần mềm là xác định mail đầu vào có phải là thư rác hay không và tính xác suất là thư rác của từng ký tự có trong mail
+# Mục đích của phần mềm là xác định mail đầu vào có phải là thư rác hay không và tính xác suất là thư rác của từng ký tự có trong mail
